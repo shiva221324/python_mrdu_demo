@@ -3,3 +3,4 @@ with open("students.txt","r") as file:
     print(data)
     print(file.closed)
 print(file.closed)
+print("hai bro")
